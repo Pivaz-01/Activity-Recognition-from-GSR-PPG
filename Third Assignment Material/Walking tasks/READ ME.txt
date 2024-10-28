@@ -1,0 +1,51 @@
+==============
+==== NOTE ====
+==============
+
+- Session 1 and Session 2 have the same marker's definition. Session 3 has different marker's definition. 
+
+- EMG Sampling Frequency for all the sessions = 512 Hz
+
+- The signals named "EMG_CH1_BandPass_Filter_CAL" have been already preprocessed by the Consensys.
+
+
+
+
+===========================
+=== SESSION DESCRIPTION ===
+===========================
+
+Session 1 - PC Recording
+------------------------------
+No description available
+
+Events: 
+Code	Counter	Name	Descripton
+1	1	First Walk	70 beats mins
+2	3	Resting	Resting
+4	1	Second Walk	85 beats mins
+8	1	Third Walk	100 beats mins
+
+
+Session 2 - PC Recording
+------------------------------
+No description available
+
+Events: 
+Code	Counter	Name	Descripton
+1	1	First Walk	70 beats mins
+2	3	Resting	Resting
+4	1	Second Walk	85 beats mins
+8	1	Third Walk	100 beats mins
+
+
+Session 3 - PC Recording
+------------------------------
+No description available
+
+Events: 
+Code	Counter	Name	Descripton
+16	1	Walking 85	Event description
+32	1	Walking 100	Event description
+4	3	Standing	Event description
+8	2	Walking 70	Event description
